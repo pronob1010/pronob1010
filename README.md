@@ -7,8 +7,7 @@
 <h1 align="center"> Hello 👋, I'm Pronob </h1>
 
  
-A diligent software engineer with years of experience in SaaS application development. A day in my life may consist of preparing or tucking the backend of a system, fixing some front-end bugs, adding API endpoints, documenting a process, designing a database, etc. I always try to utilize my time by preparing for and adjusting to new opportunities.
- 
+Software engineer with 4+ years of building and scaling SaaS platforms. Experienced in backend systems, third-party integrations, and real-time infrastructure. A day in my life may consist of preparing or tweaking the backend of a system, fixing some front-end bugs, adding API endpoints, documenting a process, designing a database, etc. I always try to utilize my time by preparing for and adjusting to new opportunities.
 
 
 ---
